@@ -1,0 +1,27 @@
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\bin\Debug\netcoreapp3.1\Eternas.exe
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\bin\Debug\netcoreapp3.1\Eternas.deps.json
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\bin\Debug\netcoreapp3.1\Eternas.runtimeconfig.json
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\bin\Debug\netcoreapp3.1\Eternas.runtimeconfig.dev.json
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\bin\Debug\netcoreapp3.1\Eternas.dll
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\bin\Debug\netcoreapp3.1\Eternas.pdb
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.csprojAssemblyReference.cache
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.AssemblyInfoInputs.cache
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.AssemblyInfo.cs
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.csproj.CoreCompileInputs.cache
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.dll
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.pdb
+D:\Freelance\Esra çağlak c# stack 13 nisan\Eternas\obj\Debug\netcoreapp3.1\Eternas.genruntimeconfig.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.exe
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.deps.json
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.runtimeconfig.json
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.runtimeconfig.dev.json
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.dll
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\bin\Debug\netcoreapp3.1\Eternas.pdb
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.csproj.AssemblyReference.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.AssemblyInfoInputs.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.AssemblyInfo.cs
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.csproj.CoreCompileInputs.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.dll
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.pdb
+D:\Freelance\Portfolyo\yazılım\Biten İşler\Eternas\Eternas\obj\Debug\netcoreapp3.1\Eternas.genruntimeconfig.cache
